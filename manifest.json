@@ -1,0 +1,33 @@
+{
+  "name": "ELITE RENT A CAR KALENDAR",
+  "short_name": "Elite Rent Car",
+  "description": "Aplikacija za upravljanje rent a car vozilima i rezervacijama",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6464fa",
+  "theme_color": "#6464fa",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iNDAiIGZpbGw9IiM2NDY0ZmEiLz4KPHN2ZyB4PSI0OCIgeT0iNjQiIHdpZHRoPSI5NiIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CjxwYXRoIGQ9Ik0xNCAySDlhMSAxIDAgMCAwLTEgMXY1YTEgMSAwIDAgMCAxIDFoNWExIDEgMCAwIDEgMSAxdjVhMSAxIDAgMCAwIDEgMWg1YTEgMSAwIDAgMCAxLTF2LTVhMSAxIDAgMCAxIDEtMWg1YTEgMSAwIDAgMCAxLTFWM2ExIDEgMCAwIDAtMS0xaC01YTEgMSAwIDAgMS0xLTFWM2ExIDEgMCAwIDAtMS0xeiIvPgo8L3N2Zz4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTAwIiBmaWxsPSIjNjQ2NGZhIi8+CjxzdmcgeD0iMTI4IiB5PSIxNzAiIHdpZHRoPSIyNTYiIGhlaWdodD0iMTcyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPHN2ZyB4PSIwIiB5PSIwIiB3aWR0aD0iMjU2IiBoZWlnaHQ9IjE3MiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CjxwYXRoIGQ9Ik0xNCAySDlhMSAxIDAgMCAwLTEgMXY1YTEgMSAwIDAgMCAxIDFoNWExIDEgMCAwIDEgMSAxdjVhMSAxIDAgMCAwIDEgMWg1YTEgMSAwIDAgMCAxLTF2LTVhMSAxIDAgMCAxIDEtMWg1YTEgMSAwIDAgMCAxLTFWM2ExIDEgMCAwIDAtMS0xaC01YTEgMSAwIDAgMS0xLTFWM2ExIDEgMCAwIDAtMS0xeiIvPgo8L3N2Zz4KPC9zdmc+CjwvZz4KPC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDE0IiBoZWlnaHQ9Ijg5NiIgdmlld0JveD0iMCAwIDQxNCA4OTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MTQiIGhlaWdodD0iODk2IiBmaWxsPSIjZjlmYWZiIi8+CjxyZWN0IHdpZHRoPSI0MTQiIGhlaWdodD0iMTAwIiBmaWxsPSJ1cmwoI2dyYWRpZW50KSIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2NDY0ZmEiLz4KPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNGY0NmU1Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+",
+      "sizes": "414x896",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
